@@ -1,16 +1,30 @@
-## Hi there 👋
+# Olá, eu sou Matheus Hideki
 
-<!--
-**Hid3kii/Hid3kii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de programação e estou focado em aprender desenvolvimento de software, principalmente com **Java** e **JavaScript**.
 
-Here are some ideas to get you started:
+Atualmente estou estudando:
+- Lógica de programação.
+- Faço faculdade de ADS.
+- Desenvolvimento web.
+- Banco de dados.
+- Versionamento com Git e GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim
+- Gosto de aprender construindo projetos na prática.
+- Estou em busca de evoluir como desenvolvedor.
+- Tenho interesse em estágio na área de tecnologia.
+- Meu objetivo é continuar melhorando minhas habilidades todos os dias.
+
+## Tecnologias que estou estudando
+- Java
+- JavaScript
+- Phython
+- PostgreSQL
+- Git e GitHub
+
+
+## Contato
+- LinkedIn: [seu-link](link-do-linkedin)
+- E-mail: Riqueoka@gmail.com
+
+Obrigado por visitar meu perfil!
