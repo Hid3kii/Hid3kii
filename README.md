@@ -18,7 +18,7 @@ Atualmente estou estudando:
 ## Tecnologias que estou estudando
 - Java
 - JavaScript
-- Phython
+- Python
 - PostgreSQL
 - Git e GitHub
 
