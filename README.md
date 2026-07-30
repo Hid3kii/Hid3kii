@@ -24,7 +24,7 @@ Atualmente estou estudando:
 
 
 ## Contato
-- LinkedIn: [seu-link](link-do-linkedin)
+- LinkedIn: [seu-link](www.linkedin.com/in/hidekiiqueoka)
 - E-mail: Riqueoka@gmail.com
 
 Obrigado por visitar meu perfil!
