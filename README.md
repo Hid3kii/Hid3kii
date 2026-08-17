@@ -6,12 +6,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=SYSTEM%20ONLINE&fontSize=55&fontColor=00F5FF&fontAlignY=38&desc=Initializing%20Profile%20of%20Hideki...&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<br>
-
-<!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00F5FFFF&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=100&lines=%3E+Inicializando+n%C3%BAcleo+neural...;%3E+Ol%C3%A1%2C+eu+sou+Matheus Hideki+%F0%9F%A4%96;%3E+Desenvolvedor(a)+%7C+Esudante+de+Software;%3E+Construindo+o+futuro%2C+uma+linha+por+vez_" alt="Typing SVG" />
-</a>
 
 <br><br>
 
@@ -44,9 +38,9 @@
 sobre_mim:
   nome: "Matheus Hideki Beltran Iqueoka"
   alias: "Hid3kii"
-  localizacao: "Terra, Setor 7G"
+  localizacao: "Brasil/São Paulo"
   ocupacao: "Desenvolvedor(a) Full Stack"
-  foco_atual: "Sistemas Inteligentes & Interfaces Futuristas"
+  foco_atual: "Sistemas Inteligentes & Cybersegurança"
   linguagem_favorita: "Python / Java"
   hobbies:
     - "Criar Projetos com apis"
