@@ -103,35 +103,10 @@ sobre_mim:
 <br>
 
 <!-- ============================================================ -->
-<!--  PROJETOS EM DESTAQUE                                         -->
-<!-- ============================================================ -->
-
-## <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="30"> PROJETOS EM DESTAQUE
-
-<table width="100%">
-<tr>
-<td width="50%">
-<a href="https://github.com/Hid3kii/e-commerce_pt">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hid3kii&repo=e-commerce_pt&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F5FF&text_color=c9d1d9&icon_color=8A2BE2" />
-</a>
-</td>
-<td width="50%">
-<a href="https://github.com/Hid3kii/fastapi-auth-system">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Hid3kii&repo=fastapi-auth-system&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F5FF&text_color=c9d1d9&icon_color=8A2BE2" />
-</a>
-</td>
-</tr>
-
-</table>
-
-
-<br>
-
-<!-- ============================================================ -->
 <!--  OBJETIVOS ATUAIS — TERMINAL                                  -->
 <!-- ============================================================ -->
 
-## <img src="" width="30"> OBJETIVOS ATUAIS
+## <p> OBJETIVOS ATUAIS </p>
 
 <div align="center">
 
@@ -153,21 +128,7 @@ Hid3kii:~$ _
 
 </div>
 
-
 <br>
-
-<!-- ============================================================ -->
-<!--  GITHUB TROPHIES                                               -->
-<!-- ============================================================ -->
-
-## <img src="" width="30"> CONQUISTAS
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Hid3kii&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
-</div>
-
-<br>
-
 
 <!-- ============================================================ -->
 <!--  REDES SOCIAIS                                                 -->
